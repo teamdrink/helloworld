@@ -4,7 +4,7 @@ import java.awt.*;
 
 import java.awt.event.*; 
 
-public class helloWorld extends JFrame {
+public class main extends JFrame {
     helloWorld(String title) { 
         this.setSize(500,500); 
         setTitle(title); 
