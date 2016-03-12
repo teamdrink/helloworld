@@ -18,4 +18,4 @@ public class Rudyapp {
         // TODO code application logic here
     }
     
-}
+}/ Komentarz K
