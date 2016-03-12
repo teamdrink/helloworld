@@ -1,6 +1,6 @@
 /*
-rwe:9
-no jo siema
+DObra dziala
+
 */
 import javax.swing.JOptionPane;
 
