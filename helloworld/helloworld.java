@@ -1,6 +1,5 @@
 /*
-DObra dziala
-
+Bardzo dobry projetk
 */
 import javax.swing.JOptionPane;
 
